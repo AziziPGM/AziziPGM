@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AziziPGM
+- 👀 I’m interested in FNF lua
+- 🌱 I’m currently learning FNF lua
+- 💞️ I’m looking to collaborate on FNF psych-engine mod
+- 📫 discord: letrolle. (with the point)
